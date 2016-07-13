@@ -2,7 +2,7 @@ package roy.souti.XMLProcessing;
 
 import junit.framework.TestCase;
 
-public class AppTestTwo extends TestCase {
+public class AppTest extends TestCase {
 
 public void testcaseone()
 {

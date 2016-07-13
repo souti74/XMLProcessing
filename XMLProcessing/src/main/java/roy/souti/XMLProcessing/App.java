@@ -13,4 +13,9 @@ public class App
         System.out.println("Here is the 2nd change");
         
     }
+
+	public static Object isTrue() {
+		// TODO Auto-generated method stub
+		return true;
+	}
 }
